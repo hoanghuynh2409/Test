@@ -37,4 +37,7 @@
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
     </ol>
+    <div>
+    <p>change commit code</p>
+    </div>
 </asp:Content>
